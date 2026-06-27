@@ -1,0 +1,6 @@
+crewai[tools]>=1.14.0
+crewai-tools>=0.45.0
+litellm>=1.50.0
+python-dotenv>=1.0.1
+matplotlib>=3.8.0
+fpdf2>=2.7.9
